@@ -9,6 +9,7 @@ A list of useful links for various topics.
 * iOS 8 Design Cheat Sheet - http://iosdesign.ivomynttinen.com 
 
 ###Web
+* Free Bootstrap themes - http://bootswatch.com
 * Bootstrap design elements and snippets - http://bootsnipp.com
 * Web design playground - http://dabblet.com
 * Javascript playground - http://jsfiddle.net
