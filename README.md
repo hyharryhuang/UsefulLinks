@@ -17,5 +17,6 @@ A list of useful links for various topics.
 * Color Wheel - https://kuler.adobe.com/create/color-wheel/
 
 ###Misc
+* Sublime Shortcuts - https://github.com/guillermooo/sublime-undocs/blob/sublime-text-3/source/reference/keyboard_shortcuts_osx.rst
 * Royalty Free Sound Clips - http://www.pdsounds.org
 * Royalty Free Images - http://www.morguefile.com/archive
