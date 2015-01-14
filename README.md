@@ -10,6 +10,7 @@ A list of useful links for various topics.
 
 ###Web
 * Free Bootstrap themes - http://bootswatch.com
+* Bootstrap navbar custom css generation - http://twbscolor.smarchal.com/
 * Bootstrap design elements and snippets - http://bootsnipp.com
 * Web design playground - http://dabblet.com
 * Javascript playground - http://jsfiddle.net
