@@ -14,6 +14,8 @@ A list of useful links for various topics.
 * Bootstrap design elements and snippets - http://bootsnipp.com
 * Web Icons - http://perfecticons.com
 * Web design playground - http://dabblet.com
+
+* Postman - REST client - http://www.getpostman.com
 * Javascript playground - http://jsfiddle.net
 
 ###General Design
