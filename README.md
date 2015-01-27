@@ -18,6 +18,7 @@ A list of useful links for various topics.
 ###Web Dev
 * Postman - REST client - http://www.getpostman.com
 * Javascript playground - http://jsfiddle.net
+* JSON Formatter - http://jsonformatter.curiousconcept.com/
 
 ###General Design
 * Color Wheel - https://kuler.adobe.com/create/color-wheel/
