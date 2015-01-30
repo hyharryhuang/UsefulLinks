@@ -18,6 +18,7 @@ A list of useful links for various topics.
 ###Web Dev
 * Postman - REST client - http://www.getpostman.com
 * Javascript playground - http://jsfiddle.net
+* Collaborative Javascript/Web playground - http://jsbin.com
 * JSON Formatter - http://jsonformatter.curiousconcept.com/
 
 ###General Design
@@ -28,5 +29,6 @@ A list of useful links for various topics.
 
 ###Misc
 * Sublime Shortcuts - https://github.com/guillermooo/sublime-undocs/blob/sublime-text-3/source/reference/keyboard_shortcuts_osx.rst
+* Open source licensing - http://choosealicense.com
 * Royalty Free Sound Clips - http://www.pdsounds.org
 * Royalty Free Images - http://www.morguefile.com/archive
