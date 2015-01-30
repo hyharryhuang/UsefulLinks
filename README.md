@@ -16,6 +16,7 @@ A list of useful links for various topics.
 * Web design playground - http://dabblet.com
 
 ###Web Dev
+* npm package.json Cheat Sheet - http://browsenpm.org/package.json
 * Postman - REST client - http://www.getpostman.com
 * Javascript playground - http://jsfiddle.net
 * Collaborative Javascript/Web playground - http://jsbin.com
