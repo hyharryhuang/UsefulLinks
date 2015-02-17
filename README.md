@@ -21,6 +21,7 @@ A list of useful links for various topics.
 * Javascript playground - http://jsfiddle.net
 * Collaborative Javascript/Web playground - http://jsbin.com
 * JSON Formatter - http://jsonformatter.curiousconcept.com/
+* Browser compatibility/support - http://caniuse.com
 
 ###General Design
 * Color Wheel - https://kuler.adobe.com/create/color-wheel/
