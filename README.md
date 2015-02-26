@@ -29,6 +29,9 @@ A list of useful links for various topics.
 * Font playground - https://www.google.com/fonts
 * Flat Colors - http://flatuicolors.com 
 
+###Startups
+* List of useful resources - http://startupstash.com/
+
 ###Misc
 * Sublime Shortcuts - https://github.com/guillermooo/sublime-undocs/blob/sublime-text-3/source/reference/keyboard_shortcuts_osx.rst
 * Domain name search - https://domize.com
