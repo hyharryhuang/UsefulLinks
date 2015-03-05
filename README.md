@@ -34,6 +34,7 @@ A list of useful links for various topics.
 
 ###Misc
 * Sublime Shortcuts - https://github.com/guillermooo/sublime-undocs/blob/sublime-text-3/source/reference/keyboard_shortcuts_osx.rst
+* Git guide - http://rogerdudler.github.io/git-guide/
 * Domain name search - https://domize.com
 * Open source licensing - http://choosealicense.com
 * Royalty Free Sound Clips - http://www.pdsounds.org
