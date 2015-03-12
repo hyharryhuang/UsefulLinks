@@ -30,6 +30,7 @@ A list of useful links for various topics.
 * Flat Colors - http://flatuicolors.com 
 
 ###Startups
+* Journalist search tool - https://hey.press
 * List of useful resources - http://startupstash.com/
 
 ###Misc
