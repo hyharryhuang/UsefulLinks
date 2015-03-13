@@ -35,6 +35,7 @@ A list of useful links for various topics.
 
 ###Misc
 * Sublime Shortcuts - https://github.com/guillermooo/sublime-undocs/blob/sublime-text-3/source/reference/keyboard_shortcuts_osx.rst
+* Bash shortcuts - http://ss64.com/osx/syntax-bashkeyboard.html
 * Git guide - http://rogerdudler.github.io/git-guide/
 * Domain name search - https://domize.com
 * Open source licensing - http://choosealicense.com
