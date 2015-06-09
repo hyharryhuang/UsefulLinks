@@ -33,6 +33,9 @@ A list of useful links for various topics.
 * Journalist search tool - https://hey.press
 * List of useful resources - http://startupstash.com/
 
+###Marketing
+* Sales Email Templates - https://attach.io/sales-email-templates/
+
 ###Misc
 * Sublime Shortcuts - https://github.com/guillermooo/sublime-undocs/blob/sublime-text-3/source/reference/keyboard_shortcuts_osx.rst
 * Bash shortcuts - http://ss64.com/osx/syntax-bashkeyboard.html
